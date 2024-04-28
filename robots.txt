@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://banus80.github.io/sitemap.xml
+Sitemap: https://banus.github.io/sitemap.xml
