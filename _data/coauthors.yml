@@ -1,34 +1,143 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"karimi":
+  - firstname: ["Pegah"]
+    url: https://www.linkedin.com/in/pegah-karimi-9194b4126
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"shemonti":
+  - firstname: ["Abida Sanjana"]
+    url: https://sites.google.com/view/abida-sanjana-shemonti
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"brokalakis":
+  - firstname: ["Andreas"]
+    url: http://www.abrokalakis.gr/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"tampouratzis":
+  - firstname: ["Nikolaos"]
+    url: https://ntampouratzis.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"nikitakis":
+  - firstname: ["Antonios", "Antonis"]
+    url: https://www.linkedin.com/in/antonis-nikitakis-62544120
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"pau":
+  - firstname: ["Danilo Pietro", "Danilo"]
+    url: https://it.linkedin.com/in/danilopietropau
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"silvano":
+  - firstname: ["Cristina"]
+    url: https://silvano.faculty.polimi.it/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"falchetto":
+  - firstname: ["Mirko"]
+    url: https://it.linkedin.com/in/mirko-falchetto-5786691
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"desoli":
+  - firstname: ["Giuseppe"]
+    url: https://it.linkedin.com/in/giuseppe-desoli-09b690
+
+"tomaselli":
+  - firstname: ["Valeria"]
+    url: https://it.linkedin.com/in/valeria-tomaselli-42460924
+
+"buzzella":
+  - firstname: ["Alex"]
+    url: https://it.linkedin.com/in/alex-buzzella-988b2854
+
+"marcon":
+  - firstname: ["Marco"]
+    url: https://marconlab.deib.polimi.it/
+
+"celona":
+  - firstname: ["Luigi"]
+    url: https://sites.google.com/view/luigicelona
+
+"tome":
+  - firstname: ["Denis"]
+    url: https://denistome.github.io/
+
+"bondi":
+  - firstname: ["Luca"]
+    url: https://www.linkedin.com/in/luca-bondi
+
+"martino":
+  - firstname: ["Danilo"]
+    url: https://it.linkedin.com/in/danilo-maria-martino-479303188
+
+"marasco":
+  - firstname: ["Emanuela"]
+    url: https://sites.google.com/view/emanuelamarasco/
+
+"dao":
+  - firstname: ["Giang"]
+    url: https://www.linkedin.com/in/daogiang
+
+"shahnawaz":
+  - firstname: ["Muhammad"]
+    url: https://fr.linkedin.com/in/muhammad-shahnawaz
+
+"ranalli":
+  - firstname: ["Luca"]
+    url: https://it.linkedin.com/in/luca-ranalli-417322151
+
+"di stefano":
+  - firstname: ["Luigi"]
+    url: https://www.unibo.it/sitoweb/luigi.distefano/en
+
+"licciardo":
+  - firstname: ["Gian Domenico"]
+    url: https://docenti.unisa.it/020369/home
+
+"ehlmann":
+  - firstname: ["Bethany L."]
+    url: https://www.ehlmann.caltech.edu/people/ehlmann.html
+
+"leask":
+  - firstname: ["Ellen K."]
+    url: https://www.linkedin.com/in/ellenleask
+
+"havton":
+  - firstname: ["Leif A."]
+    url: https://profiles.mountsinai.org/leif-anders-havton
+
+"martin-hammond":
+  - firstname: ["Aqueasha"]
+    url: https://aqueashamarie.com/
+
+"bolchini":
+  - firstname: ["Davide"]
+    url: https://luddy.iupui.edu/contact/profile/davide-bolchini
+
+"biscola":
+  - firstname: ["Natalia P."]
+    url: https://www.linkedin.com/in/nataliabiscola
+
+"dundar":
+  - firstname: ["Nurat", "M.", "M. Murat", "Mehmet Murat"]
+    url: https://cs.iupui.edu/~mdundar/
+
+"rajwa":
+  - firstname: ["Bartek", "B."]
+    url: https://web.ics.purdue.edu/~brajwa/
+
+"ornstein":
+  - firstname: ["Andrea C."]
+    url: https://it.linkedin.com/in/andreaornstein
+
+"urlini":
+  - firstname: ["Giulio"]
+    url: https://it.linkedin.com/in/giulio-urlini-pmp%C2%AE-4053835
+
+"d'alto":
+  - firstname: ["Viviana"]
+    url: https://it.linkedin.com/in/viviana-d-alto-b2a66a1
+
+"majo":
+  - firstname: ["Tomaso"]
+    url: https://it.linkedin.com/in/tommaso-majo-a835a56
+
+"de ambroggi":
+  - firstname: ["Fabio"]
+    url: https://it.linkedin.com/in/fabiodeambroggi
+
+"boesch":
+  - firstname: ["Thomas"]
+    url: https://it.linkedin.com/in/andreas-boesch-0b0b0b

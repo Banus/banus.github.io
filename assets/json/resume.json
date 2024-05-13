@@ -1,200 +1,176 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Emanuele Plebani",
+    "label": "Research assistant / PhD student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "banus80@gmail.com",
+    "phone": "+13176455666",
+    "url": "https://banus.github.io",
+    "summary": "I'm a computer engineer with passion for mathematics and physics who want to improve, up to human-level performances, the way computers perceive the world",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
       "countryCode": "US",
-      "region": "California"
+      "address": "United States"
     },
     "profiles": [
       {
+        "network": "LinkedIn",
+        "username": "emanuele-plebani",
+        "url": "https://www.linkedin.com/in/emanuele-plebani/"
+      },
+      {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "emanpleb",
+        "url": "https://twitter.com/emanpleb"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Indiana University–Purdue University Indianapolis, Indianapolis (IN)",
+      "position": "Research Assistant",
+      "startDate": "JAN 2020",
+      "endDate": "MAY 2024",
+      "summary": "",
+      "highlights": ["Classification of mineral signatures in hyperspectral images from the CRISM Mars experiment using Bayesian models, deep models, SVM, random forests",
+                     "Segmentation of different cell and nerve structures in neurohistological TEM images using U-Net",
+                     "Investigating Bayesian models for problems with imbalanced classes and zero-shot learning in segmentation and hyperspectral classification",
+                     "Automated tagging and summarization for medical notes using recurrent neural networks and Transformer models",
+                     "Design and implement an Android app giving context-based message suggestions to blind/visual impaired people"],
+      "url": "https://www.linkedin.com/school/indiana-university%E2%80%93purdue-university-indianapolis/"
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Meta, Redmond (WA)",
+      "position": "Research Scientist Intern",
+      "startDate": "MAY 2022",
+      "endDate": "AUG 2022",
+      "highlights": ["Modelling uncertainty in deep eye tracking models.",
+                     "Develop out-of-distribution approaches to identify anomalous training sequences"],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/meta/"
+    },
+    {
+      "name": "STMicroelectronics, Agrate (MB), Italy",
+      "position": "Advanced Research Engineer",
+      "startDate": "JUN 2014",
+      "endDate": "JAN 2020",
+      "highlights": ["Design and development of the X-Cube-AI backend for porting neural networks form different toolboxes to STM platforms",
+                     "Development in ANSI C and training in Keras (Python) of deep learning solutions for sensor data classification and activity recognition on microcontrollers",
+                     "Design and training of binary-valued neural networks for activity recognition",
+                     "Development, implementation and optimization of computer vision algorithms for visual search and object detection",
+                     "Meeting with customers and collecting requirements on solutions using machine learning and AI on microcontrollers and sensors",
+                     "Supervised interns on the development of algorithms for object detection, Visual Search and prediction on Cyber Physical Systems",
+                     "Person in charge of the deliverables assigned to ST Microelectronics in the European project COSSIM H2020 (Feb 2015-Feb 2018)"],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/stmicroelectronics/"
+    },
+    {
+      "name": "Politecnico di Milano, Milan, Italy",
+      "position": "Research Assistant",
+      "startDate": "OCT 2011",
+      "endDate": "MAY 2014",
+      "highlights": ["Person in charge (under supervision of the research advisor) of the 8 deliverables assigned to Politecnico di Milano in the European project ASTUTE ARTEMIS (Feb 2011-Feb 2014)",
+                     "Development and implementation of computer vision algorithms targeting the MPEG CDVS standard",
+                     "Development of several MPEG CDVS demonstrators based on Visual Search algorithms in C++, Linux (x86), Windows (x86), MacOS (x86), Android 4 (ARM, Nexus 4, Nexus 7, Samsung S2, S3, S4), with Python and helper scripts",
+                     "Supervised MSc Students theses about: 1) using trifocal tensor on omnidirectional images to implement a visual odometry algorithm; 2) implementing robust estimation techniques to detect geometric planes in point clouds"],
+      "summary": "",
+      "url": "https://www.linkedin.com/school/polimi/"
+    },
+    {
+      "name": "STMicroelectronics, Agrate (MB), Italy",
+      "position": "Research contractor",
+      "startDate": "OCT 2012",
+      "endDate": "OCT 2013",
+      "highlights": ["Improvement of the code quality in the CDVS Test Model, accepted in the official Test Model 3.1",
+                     "Improvement of the localization precision of CDVS by modifying the RANSAC algorithm, accepted in Test Model 3.0",
+                     "Optimization of a interest point detector with three times the speed of the reference CDVS algorithm and with comparable accuracy and filed a ST/PoliMi joint patent (Emanuele Plebani, Danilo Pau)","Collaborated and provided support to ST Imaging Division on adapting algorithms for low precision implementations",
+                     "Won the prize for Best Demo in the GTTI MMSP 2014 (Italian Chapter IEEE Signal Processing Society) conference presenting Visual Search demos on x86 and Android platforms",
+                     "Contributed in starting the MPEG CDVA standard for search on video streams and object classification, overview of the state of the art and available datasets",
+                     "Contributed with 32 input documents to MPEG between July 2012 and April 2014",
+                     "Supervised student Daniele Miatto (ST intern) on implementing a client-server architecture based on CDVS Test Model and porting it to Android/ARM",
+                     "Supervised graduate and post-graduate students on: 1) parallelizing the optimized interest point detector with Intel TBB, porting the code on Android/ARM and developing a hybrid Visual Search/Visual Odometry algorithm; 2) testing interest point detection algorithms and writing a white paper on the CDVS standard (officially accepted)",
+                     "Co-supervised graduate and post-graduate students on: 1) developing a CDVS extension on color images and building a test dataset 2) on developing a compression scheme for dense HOG descriptors and porting the model on C++"],
+      "summary": "Development and implementation of algorithms related to the MPEG CDVS standard",
+      "url": "https://www.linkedin.com/company/stmicroelectronics/"
+    },
+    {
+      "name": "Overdev s.r.l., Terno d'Isola (BG), Italy",
+      "position": "Java Developer",
+      "startDate": "JAN 2005",
+      "endDate": "FEB 2006",
+      "highlights": ["Design of a relational database in the JBoss application server",
+                     "Optimization of database queries for generation of summary reports"],
+      "summary": "Development of a Java JEE application for a small manufacturing company",
+      "url": ""
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Purdue University",
+      "area": "Computer Science",
+      "studyType": "Doctor of Philosophy - PhD",
+      "startDate": "2020-12-31",
+      "endDate": "2024-05-31",
+      "score": "4/4",
+      "courses": []
+    },
+    {
+      "institution": "Politecnico di Milano",
+      "area": "Computer Engineering",
+      "studyType": "Master of Science (M.Sc.)",
+      "startDate": "1999-12-31",
+      "endDate": "2011-12-31",
+      "score": "100/100 cum laude",
+      "courses": []
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  "awards": [],
+  "certificates": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Full Professional",
+      "language": "English"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Native Speaker",
+      "language": "Italian"
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "interests": [],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "COSSIM",
+      "startDate": "2015-02-28",
+      "summary": "COSSIM (“Novel, Comprehensible, Ultra-Fast, Security-Aware CPS Simulator”) addresses the need for  simulation tools and models for system design and analysis with an open source framework for efficient and accurate Cyber Physical System simulation.",
+      "url": "http://www.cossim.org/",
+      "endDate": "2015-02-28"
+    },
+    {
+      "name": "MPEG Compact Descriptors for Video Analysis",
+      "startDate": "2013-10-31",
+      "summary": "MPEG CDVA is exploring the opportunity of standardizing technologies that will enable inter-operable and efficient of video search systems architectures and applications. In particular, it is seeking technologies for video content search and classification.",
+      "url": "http://mpeg.chiariglione.org/standards/exploration/compact-descriptors-video-analysis",
+      "endDate": "2014-07-31"
+    },
+    {
+      "name": "MPEG Compact Descriptors for Visual Search",
+      "startDate": "2012-06-30",
+      "summary": "MPEG is considering standardizing technologies that will enable efficient and inter-operable design of visual search applications. In particular it is seeking technologies for visual content matching in images or video. Visual content matching includes matching of views of objects, landmarks, and printed documents that is robust to partial occlusions as well as changes in vantage point, camera parameters, and lighting conditions.",
+      "url": "http://mpeg.chiariglione.org/standards/mpeg-7/compact-descriptors-visual-search",
+      "endDate": "2014-06-30"
+    },
+    {
+      "name": "ASTUTE",
+      "startDate": "2011-10-31",
+      "summary": "The project aims at the development of an advanced pro-active HMI interfaces and reasoning engine systems for improving the way humans deal with complex information flows, which without assistance would saturate theirs performance and decision-making capabilities.\nPolitecnico di Milano and its Italian partners will apply ASTUTE's results in the automotive field, in order to improve the driver's experience.",
+      "url": "http://www.astute-project.eu/",
+      "endDate": "2014-02-28"
     }
-  ]
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
 }
