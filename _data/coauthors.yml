@@ -20,7 +20,7 @@
 
 "pau":
   - firstname: ["Danilo Pietro", "Danilo"]
-    url: https://it.linkedin.com/in/danilopietropau
+    url: https://www.linkedin.com/in/danilopietropau
 
 "silvano":
   - firstname: ["Cristina"]
@@ -28,23 +28,31 @@
 
 "falchetto":
   - firstname: ["Mirko"]
-    url: https://it.linkedin.com/in/mirko-falchetto-5786691
+    url: https://www.linkedin.com/in/mirko-falchetto-5786691
 
 "desoli":
   - firstname: ["Giuseppe"]
-    url: https://it.linkedin.com/in/giuseppe-desoli-09b690
+    url: https://www.linkedin.com/in/giuseppe-desoli-09b690
 
 "tomaselli":
   - firstname: ["Valeria"]
-    url: https://it.linkedin.com/in/valeria-tomaselli-42460924
+    url: https://www.linkedin.com/in/valeria-tomaselli-42460924
 
 "buzzella":
   - firstname: ["Alex"]
-    url: https://it.linkedin.com/in/alex-buzzella-988b2854
+    url: https://www.linkedin.com/in/alex-buzzella-988b2854
 
 "marcon":
   - firstname: ["Marco"]
     url: https://marconlab.deib.polimi.it/
+
+"tubaro":
+  - firstname: ["Stefano"]
+    url: https://tubaro.faculty.polimi.it/
+
+"schepis":
+  - firstname: ["Angelo"]
+    url: https://www.linkedin.com/in/angelo-schepis-1ba310142
 
 "celona":
   - firstname: ["Luigi"]
@@ -58,9 +66,13 @@
   - firstname: ["Luca"]
     url: https://www.linkedin.com/in/luca-bondi
 
+"baroffio":
+  - firstname: ["Luca"]
+    url: https://www.linkedin.com/in/luca-baroffio-6942849a
+
 "martino":
   - firstname: ["Danilo"]
-    url: https://it.linkedin.com/in/danilo-maria-martino-479303188
+    url: https://www.linkedin.com/in/danilo-maria-martino-479303188
 
 "marasco":
   - firstname: ["Emanuela"]
@@ -72,11 +84,11 @@
 
 "shahnawaz":
   - firstname: ["Muhammad"]
-    url: https://fr.linkedin.com/in/muhammad-shahnawaz
+    url: https://www.linkedin.com/in/muhammad-shahnawaz
 
 "ranalli":
   - firstname: ["Luca"]
-    url: https://it.linkedin.com/in/luca-ranalli-417322151
+    url: https://www.linkedin.com/in/luca-ranalli-417322151
 
 "di stefano":
   - firstname: ["Luigi"]
@@ -120,24 +132,56 @@
 
 "ornstein":
   - firstname: ["Andrea C."]
-    url: https://it.linkedin.com/in/andreaornstein
+    url: https://www.linkedin.com/in/andreaornstein
 
 "urlini":
   - firstname: ["Giulio"]
-    url: https://it.linkedin.com/in/giulio-urlini-pmp%C2%AE-4053835
+    url: https://www.linkedin.com/in/giulio-urlini-pmp%C2%AE-4053835
 
 "d'alto":
   - firstname: ["Viviana"]
-    url: https://it.linkedin.com/in/viviana-d-alto-b2a66a1
+    url: https://www.linkedin.com/in/viviana-d-alto-b2a66a1
 
 "majo":
-  - firstname: ["Tomaso"]
-    url: https://it.linkedin.com/in/tommaso-majo-a835a56
+  - firstname: ["Tomaso", "Tommaso"]
+    url: https://www.linkedin.com/in/tommaso-majo-a835a56
+
+"singh":
+  - firstname: ["Surinder-pal", "Surinder Pal"]
+    url: https://www.researchgate.net/profile/Surinder-Singh-9
 
 "de ambroggi":
-  - firstname: ["Fabio"]
-    url: https://it.linkedin.com/in/fabiodeambroggi
+  - firstname: ["Fabio", "Fabio Giuseppe"]
+    url: https://www.linkedin.com/in/fabiodeambroggi
+
+"guido":
+  - firstname: ["Floriana"]
+    url: https://www.linkedin.com/in/floriana-guido-920460b6/
+
+"bosco":
+  - firstname: ["Angelo"]
+    url: https://www.linkedin.com/in/angelobosco
+
+"paliotto":
+  - firstname: ["Luca"]
+    url: https://www.linkedin.com/in/luca-paliotto-38aaab97
+
+"petrelli":
+  - firstname: ["Alioscia"]
+    url: https://www.linkedin.com/in/alioscia-petrelli-851a3b4
+
+"paracchini":
+  - firstname: ["Marco Brando", "Marco"]
+    url: https://www.linkedin.com/in/marco-brando-paracchini
 
 "boesch":
   - firstname: ["Thomas"]
-    url: https://it.linkedin.com/in/andreas-boesch-0b0b0b
+    url: https://www.linkedin.com/in/andreas-boesch-0b0b0b
+
+"folliot":
+  - firstname: ["Laurent"]
+    url: https://www.linkedin.com/in/laurent-folliot-1b29521/
+
+"demaj":
+  - firstname: ["Pierre"]
+    url: https://www.linkedin.com/in/pierre-demaj-851093b/
