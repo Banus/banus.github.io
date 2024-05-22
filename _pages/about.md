@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a machine learning and computer vision engineer. I graduated from [Purdue University](https://www.purdue.edu/campuses/indianapolis/) with a PhD in Computer Science, under the supervision of [Prof. M. Murat Dundar](https://cs.iupui.edu/~mdundar/). My PhD research focused on developing segmentation models for medical and hyperspectral imagging, with a focus on open-world applications.
+I'm a machine learning and computer vision engineer. I graduated from [Purdue University](https://www.purdue.edu/campuses/indianapolis/) with a PhD in Computer Science, under the supervision of [Prof. M. Murat Dundar](https://cs.iupui.edu/~mdundar/). My PhD research focused on developing segmentation models for medical and hyperspectral imaging, with an emphasis on open-world applications.
 
 Prior to my PhD, I worked as an advanced research engineer at [STMicroelectronics](https://www.st.com/content/st_com/en.html) in Italy, where I developed deep learning models with a focus on low-energy devices, such as microcontrollers (MCUs). In there, I helped kickstarting the [Cube.AI](https://stm32ai.st.com/stm32-cube-ai/) project, which at the time was the first tool able to automatically convert neural networks from the most common toolboxes to C code suitable for MCUs.
 
