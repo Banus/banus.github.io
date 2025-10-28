@@ -27,6 +27,20 @@
   },
   "work": [
     {
+      "name": "Amazon, Santa Clara (CA)",
+      "position": "Software Development Engineer II",
+      "startDate": "DEC 2024",
+      "endDate": "PRESENT",
+      "summary": "",
+      "highlights": [
+        "Development of new AI-based shopping features for Alexa+, including Shopping Essentials, tracking deals on products and Autobuy based on price conditions",
+        "Contribute to the design and implementation of LLM-based service APIs and data flows, mapping service dependencies, designing integration and load tests",
+        "Maintain and improve existing Alexa Shopping features, including deal search and notifications, and integrating them in the new AI-based flows",
+        "Monitoring and improving the service infrastructure through Infrastructure as Code (IaC) on AWS, fixing configuration issues, and improving code quality"
+      ],
+      "url": "https://www.linkedin.com/company/amazon/"
+    },
+    {
       "name": "Indiana University–Purdue University Indianapolis, Indianapolis (IN)",
       "position": "Research Assistant",
       "startDate": "JAN 2020",

@@ -92,7 +92,7 @@ quora_username: # your Quora username
 research_gate_profile: Emanuele-Plebani # your profile on ResearchGate
 scholar_userid: urB1SgQAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
-semanticscholar_id: # your Semantic Scholar ID
+semanticscholar_id: Emanuele-Plebani/1877262 # your Semantic Scholar ID
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
 telegram_username: # your Telegram user name
@@ -104,7 +104,7 @@ wikipedia_id: # Banus # your wikipedia id (Case sensitive)
 work_url: # work page URL
 x_username: emanpleb # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-zotero_username: eplebani # your zotero username
+zotero_username: # eplebani # your zotero username
 
 contact_note: >
   I regularly check my email, so feel free to reach out to me there.
@@ -236,7 +236,6 @@ plugins:
   - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
-  - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
