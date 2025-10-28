@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have received the Department of Computer and Information Science’s [Gersting Award for an Outstanding Graduate Student](https://science.iupui.edu/admissions/fin-aid-scholarships/scholarships/_scholarships/computer-science-gersting-award-for-an-outstanding-graduate-student.html).
+I have received the Department of Computer and Information Science’s [Gersting Award for an Outstanding Doctoral Student](https://iu.academicworks.com/opportunities/47832).
