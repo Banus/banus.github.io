@@ -29,7 +29,7 @@
     {
       "name": "Amazon, Santa Clara (CA)",
       "position": "Software Development Engineer II",
-      "startDate": "DEC 2024",
+      "startDate": "2024-12-03",
       "endDate": "PRESENT",
       "summary": "",
       "highlights": [
@@ -43,8 +43,8 @@
     {
       "name": "Indiana University–Purdue University Indianapolis, Indianapolis (IN)",
       "position": "Research Assistant",
-      "startDate": "JAN 2020",
-      "endDate": "MAY 2024",
+      "startDate": "2020-01-18",
+      "endDate": "2024-07-01",
       "summary": "",
       "highlights": [
         "Classification of mineral signatures in hyperspectral images from the CRISM Mars experiment using Bayesian models, deep models, SVM, random forests",
@@ -58,8 +58,8 @@
     {
       "name": "Meta, Redmond (WA)",
       "position": "Research Scientist Intern",
-      "startDate": "MAY 2022",
-      "endDate": "AUG 2022",
+      "startDate": "2022-05-15",
+      "endDate": "2022-08-07",
       "highlights": [
         "Modelling uncertainty in deep eye tracking models.",
         "Develop out-of-distribution approaches to identify anomalous training sequences"
@@ -70,8 +70,8 @@
     {
       "name": "STMicroelectronics, Agrate (MB), Italy",
       "position": "Advanced Research Engineer",
-      "startDate": "JUN 2014",
-      "endDate": "JAN 2020",
+      "startDate": "2014-06-03",
+      "endDate": "2020-01-17",
       "highlights": [
         "Design and development of the X-Cube-AI backend for porting neural networks form different toolboxes to STM platforms",
         "Development in ANSI C and training in Keras (Python) of deep learning solutions for sensor data classification and activity recognition on microcontrollers",
@@ -87,8 +87,8 @@
     {
       "name": "Politecnico di Milano, Milan, Italy",
       "position": "Research Assistant",
-      "startDate": "OCT 2011",
-      "endDate": "MAY 2014",
+      "startDate": "2011-10-01",
+      "endDate": "2014-05-31",
       "highlights": [
         "Person in charge (under supervision of the research advisor) of the 8 deliverables assigned to Politecnico di Milano in the European project ASTUTE ARTEMIS (Feb 2011-Feb 2014)",
         "Development and implementation of computer vision algorithms targeting the MPEG CDVS standard",
@@ -101,8 +101,8 @@
     {
       "name": "STMicroelectronics, Agrate (MB), Italy",
       "position": "Research contractor",
-      "startDate": "OCT 2012",
-      "endDate": "OCT 2013",
+      "startDate": "2012-10-01",
+      "endDate": "2013-10-01",
       "highlights": [
         "Improvement of the code quality in the CDVS Test Model, accepted in the official Test Model 3.1",
         "Improvement of the localization precision of CDVS by modifying the RANSAC algorithm, accepted in Test Model 3.0",
@@ -121,8 +121,8 @@
     {
       "name": "Overdev s.r.l., Terno d'Isola (BG), Italy",
       "position": "Java Developer",
-      "startDate": "JAN 2005",
-      "endDate": "FEB 2006",
+      "startDate": "2005-01",
+      "endDate": "2006-02",
       "highlights": [
         "Design of a relational database in the JBoss application server",
         "Optimization of database queries for generation of summary reports"
