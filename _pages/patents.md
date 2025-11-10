@@ -2,7 +2,7 @@
 layout: page
 permalink: /patents/
 title: patents
-description: patents by year in reversed chronological order.
+description: patents by year in reverse chronological order.
 years: [2021, 2022, 2023]
 nav: true
 nav_order: 3
