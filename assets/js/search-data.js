@@ -11,17 +11,24 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "publications by year in reversed chronological order.",
+          description: "publications by year in reverse chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-patents",
           title: "patents",
-          description: "patents by year in reversed chronological order.",
+          description: "patents by year in reverse chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/patents/";
+          },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -39,12 +46,22 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-starting-a-new-position-as-a-software-development-engineer-ii-at-amazon-santa-clara-in-the-alexa-shopping-group-excited-for-this-new-chapter",
           title: 'I’m starting a new position as a Software Development Engineer II at Amazon,...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-crism-machine-learning-toolkit",
+          title: 'CRISM Machine Learning Toolkit',
+          description: "A Machine Learning Toolkit for CRISM Image Analysis.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/crism/";
+            },},{id: "projects-axon-segmentation-research",
+          title: 'Axon Segmentation Research',
+          description: "High-throughput segmentation of unmyelinatd axons by deep learning.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tem_segmentation/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%62%61%6E%75%73%38%30@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
@@ -79,7 +96,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=urB1SgQAAAAJ", "_blank");
         },
       },{
         id: 'social-semanticscholar',
