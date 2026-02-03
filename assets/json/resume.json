@@ -27,10 +27,20 @@
   },
   "work": [
     {
+      "name": "Imagry, San Jose (CA)",
+      "position": "Senior Deep Learning Engineer",
+      "startDate": "2026-01-12",
+      "summary": "",
+      "highlights": [
+        "Development of 3D object detection solutions for autonomous driving"
+      ],
+      "url": "https://imagry.co/"
+    },
+    {
       "name": "Amazon, Santa Clara (CA)",
       "position": "Software Development Engineer II",
       "startDate": "2024-12-03",
-      "endDate": "PRESENT",
+      "endDate": "2026-01-26",
       "summary": "",
       "highlights": [
         "Development of new AI-based shopping features for Alexa+, including Shopping Essentials, tracking deals on products and Autobuy based on price conditions",

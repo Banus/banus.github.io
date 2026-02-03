@@ -26,7 +26,8 @@ latest_posts:
 
 I'm a machine learning and computer vision engineer. I graduated from [Purdue University](https://www.purdue.edu/campuses/indianapolis/) with a PhD in Computer Science, under the supervision of [Prof. M. Murat Dundar](https://web.archive.org/web/20210416141743/http://cs.iupui.edu/~mdundar/). My PhD research focused on developing segmentation models for medical and hyperspectral imaging, with an emphasis on open-world applications.
 
-After my PhD, I joined [Amazon](https://www.amazon.com/) as a Software Development Engineer II in the Alexa Shopping team, where I worked on developing new features for the new LLM-based Alexa+, including deal tracking, automatic purchases based on price conditions, and a new user experience called Shopping Essentials.
+After my PhD, I joined [Amazon](https://www.amazon.com/) as a Software Development Engineer II in the Alexa Shopping team, where I worked on developing new features for the new LLM-based Alexa+, including deal tracking, automatic purchases based on price conditions, and a new user experience called Shopping Essentials.  
+I then moved to [Imagry](https://imagry.co/), where I work as a Senior deep learning engineer on computer vision models for autonomous driving.
 
 Before my PhD, I worked as an advanced research engineer at [STMicroelectronics](https://www.st.com/) in Italy, where I developed deep learning models with a focus on low-energy devices, such as microcontrollers (MCUs). There, I helped kickstart the [Cube.AI](https://stm32ai.st.com/stm32-cube-ai/) project, which at the time was the first tool able to automatically convert neural networks from the most common toolboxes to C code suitable for MCUs.
 
