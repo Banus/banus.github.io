@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Emanuele Plebani",
-    "label": "Research assistant / PhD student",
+    "label": "Senior Deep Learning Engineer",
     "image": "",
     "email": "banus80@gmail.com",
     "phone": "+13176455666",
@@ -27,7 +27,8 @@
   },
   "work": [
     {
-      "name": "Imagry, San Jose (CA)",
+      "name": "Imagry",
+      "location": "San Jose, CA",
       "position": "Senior Deep Learning Engineer",
       "startDate": "2026-01-12",
       "summary": "",
@@ -37,7 +38,8 @@
       "url": "https://imagry.co/"
     },
     {
-      "name": "Amazon, Santa Clara (CA)",
+      "name": "Amazon",
+      "location": "Santa Clara, CA",
       "position": "Software Development Engineer II",
       "startDate": "2024-12-03",
       "endDate": "2026-01-26",
@@ -51,7 +53,8 @@
       "url": "https://www.linkedin.com/company/amazon/"
     },
     {
-      "name": "Indiana University–Purdue University Indianapolis, Indianapolis (IN)",
+      "name": "Purdue University",
+      "location": "Indianapolis, IN",
       "position": "Research Assistant",
       "startDate": "2020-01-18",
       "endDate": "2024-07-01",
@@ -66,7 +69,8 @@
       "url": "https://www.linkedin.com/school/indiana-university%E2%80%93purdue-university-indianapolis/"
     },
     {
-      "name": "Meta, Redmond (WA)",
+      "name": "Meta",
+      "location": "Redmond (WA)",
       "position": "Research Scientist Intern",
       "startDate": "2022-05-15",
       "endDate": "2022-08-07",
@@ -78,7 +82,8 @@
       "url": "https://www.linkedin.com/company/meta/"
     },
     {
-      "name": "STMicroelectronics, Agrate (MB), Italy",
+      "name": "STMicroelectronics",
+      "location": "Agrate (MB), Italy",
       "position": "Advanced Research Engineer",
       "startDate": "2014-06-03",
       "endDate": "2020-01-17",
@@ -95,7 +100,8 @@
       "url": "https://www.linkedin.com/company/stmicroelectronics/"
     },
     {
-      "name": "Politecnico di Milano, Milan, Italy",
+      "name": "Politecnico di Milano",
+      "location": "Milano, Italy",
       "position": "Research Assistant",
       "startDate": "2011-10-01",
       "endDate": "2014-05-31",
@@ -109,7 +115,8 @@
       "url": "https://www.linkedin.com/school/polimi/"
     },
     {
-      "name": "STMicroelectronics, Agrate (MB), Italy",
+      "name": "STMicroelectronics",
+      "location": "Agrate (MB), Italy",
       "position": "Research contractor",
       "startDate": "2012-10-01",
       "endDate": "2013-10-01",
@@ -129,7 +136,8 @@
       "url": "https://www.linkedin.com/company/stmicroelectronics/"
     },
     {
-      "name": "Overdev s.r.l., Terno d'Isola (BG), Italy",
+      "name": "Overdev s.r.l.",
+      "location": "Terno d'Isola (BG), Italy",
       "position": "Java Developer",
       "startDate": "2005-01",
       "endDate": "2006-02",
@@ -145,6 +153,7 @@
   "education": [
     {
       "institution": "Purdue University",
+      "location": "Indianapolis, IN",
       "area": "Computer Science",
       "studyType": "Doctor of Philosophy - PhD",
       "startDate": "2020-12-31",
@@ -154,6 +163,7 @@
     },
     {
       "institution": "Politecnico di Milano",
+      "location": "Milan, Italy",
       "area": "Computer Engineering",
       "studyType": "Master of Science (M.Sc.)",
       "startDate": "1999-12-31",
