@@ -43,5 +43,11 @@ jobs:
         uses: lycheeverse/lychee-action@v2.0.2
         with:
           fail: true
-          # only check local links
-          args: --base ./_site --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
+          # only check local links / remap internal links
+          args: --base ./_site --offline
+            --remap '_site(/?.)/assets/(.) _site/assets/$2'
+            --remap '_site(/?.)/blog/tag/(.) _site/blog/tag/$2/index.html'
+            --remap '_site(/?.)/blog/category/(.) _site/blog/category/$2/index.html'
+            --remap '_site(/?.)/projects/(.) _site/projects/$2/index.html'
+            --exclude 'file:///.*/(blog/tag|blog/category|projects/crism|projects/tem_segmentation|people/assets/img/prof_pic)'
+            --verbose --no-progress '_site/**/*.html'
